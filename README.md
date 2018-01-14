@@ -4,12 +4,12 @@ Example Code
 
 <code>
 	
-	import_module("/pyAnalysis/LineAnalysis.py")
-	LineAnalysis().genrateLineAnalysis()
+	py = __import__('LineAnalysis')
+	py.LineAnalysis().genrateLineAnalysis()
 	
-	import_module("/pyAnalysis/BoxAnalysis.py")
-	BoxAnalysis().genrateBoxAnalysis()
+	py = __import__("/pyAnalysis/BoxAnalysis.py")
+	py.BoxAnalysis().genrateBoxAnalysis()
 
-	import_module("/pyAnalysis/CandlelAnalysis.py")
-	CandlelAnalysis().genrateCandlelAnalysis()
+	py = __import__("/pyAnalysis/CandlelAnalysis.py")
+	py.CandlelAnalysis().genrateCandlelAnalysis()
 </code>
