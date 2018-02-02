@@ -4,7 +4,7 @@ Example Code
 
 <code>
 	
-	py = __import__('LineAnalysis')
+	py = __import__('LineAnalysis.py')
 	py.LineAnalysis().genrateLineAnalysis()
 	
 	py = __import__("/pyAnalysis/BoxAnalysis.py")
