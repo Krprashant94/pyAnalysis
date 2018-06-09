@@ -6,7 +6,7 @@ Created on Fri Dec 22 11:05:45 2017
 
 @mail: kr.prashant94@gmail.com
 
-@supervision: Mr. Dilip Kumar
+@supervision: Dr. Dilip Kumar
 
 """
 import matplotlib.pyplot as plt
