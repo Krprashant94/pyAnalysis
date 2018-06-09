@@ -6,7 +6,7 @@ Created on Mon Jan  8 12:45:42 2018
 
 @mail: kr.prashant94@gmail.com
 
-@supervision: Mr. Dilip Kumar
+@supervision: Dr. Dilip Kumar
 """
 import matplotlib.pyplot as plt
 from mpl_finance import candlestick_ohlc
