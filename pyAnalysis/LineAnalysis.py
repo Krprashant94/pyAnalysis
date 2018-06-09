@@ -6,7 +6,7 @@ Created on Mon Dec 18 11:15:00 2017
 
 @mail: kr.prashant94@gmail.com
 
-@supervision: Mr. Dilip Kumar
+@supervision: Dr. Dilip Kumar
 
 """
 
